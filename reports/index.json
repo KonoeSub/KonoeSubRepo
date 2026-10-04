@@ -1,0 +1,36 @@
+{
+  "colorPalette": "electric-blue",
+  "axiTheme": "default",
+  "glass": false,
+  "glassSurfaces": false,
+  "entries": [
+    {
+      "id": "20261004-170639-mnpx",
+      "title": "Pray For My Boons",
+      "commanders": [
+        "Pray For My Boons"
+      ],
+      "guild": {
+        "id": "635BBF39-8510-EB11-81AA-D66D0E22CAB6",
+        "name": "Mahameru",
+        "tag": "MHMR"
+      },
+      "dateStart": "2026-10-04T15:06:39.000Z",
+      "dateEnd": "2026-10-04T15:46:37.652Z",
+      "dateLabel": "04/10/2026, 17:06:39 - 04/10/2026, 17:46:37",
+      "url": "https://KonoeSub.github.io/KonoeSubRepo/?report=20261004-170639-mnpx",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 67,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 37
+      }
+    }
+  ]
+}
