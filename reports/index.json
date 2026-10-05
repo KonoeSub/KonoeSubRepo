@@ -3,7 +3,41 @@
   "axiTheme": "default",
   "glass": false,
   "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.21.0"
+  },
   "entries": [
+    {
+      "id": "20261005-161742-v6r6",
+      "title": "Pocóng, Pray For My Boons",
+      "commanders": [
+        "Pocóng",
+        "Pray For My Boons"
+      ],
+      "guild": {
+        "id": "635BBF39-8510-EB11-81AA-D66D0E22CAB6",
+        "name": "Mahameru",
+        "tag": "MHMR"
+      },
+      "dateStart": "2026-10-05T14:17:42.000Z",
+      "dateEnd": "2026-10-05T15:19:42.758Z",
+      "dateLabel": "05/10/2026, 16:17:42 - 05/10/2026, 17:19:42",
+      "url": "https://KonoeSub.github.io/KonoeSubRepo/?report=20261005-161742-v6r6",
+      "publishedBy": "KonoeSub",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 21
+      }
+    },
     {
       "id": "20261004-170639-mnpx",
       "title": "Pray For My Boons",
