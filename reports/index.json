@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261031-142733-23un",
+      "title": "Pray For My Boons",
+      "commanders": [
+        "Pray For My Boons"
+      ],
+      "guild": {
+        "id": "635BBF39-8510-EB11-81AA-D66D0E22CAB6",
+        "name": "Mahameru",
+        "tag": "MHMR"
+      },
+      "dateStart": "2026-10-31T13:27:33.000Z",
+      "dateEnd": "2026-10-31T13:52:35.013Z",
+      "dateLabel": "31/10/2026, 14:27:33 - 31/10/2026, 14:52:35",
+      "url": "https://KonoeSub.github.io/KonoeSubRepo/?report=20261031-142733-23un",
+      "publishedBy": "KonoeSub",
+      "summary": {
+        "borderlandsPct": 0.56,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 28,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20261005-161742-v6r6",
       "title": "Pocóng, Pray For My Boons",
       "commanders": [
