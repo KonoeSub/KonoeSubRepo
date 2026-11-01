@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261101-155513-bvy5",
+      "title": "Tríckstars",
+      "commanders": [
+        "Tríckstars"
+      ],
+      "guild": {
+        "id": "635BBF39-8510-EB11-81AA-D66D0E22CAB6",
+        "name": "Mahameru",
+        "tag": "MHMR"
+      },
+      "dateStart": "2026-11-01T14:55:13.000Z",
+      "dateEnd": "2026-11-01T15:33:26.930Z",
+      "dateLabel": "01/11/2026, 15:55:13 - 01/11/2026, 16:33:26",
+      "url": "https://KonoeSub.github.io/KonoeSubRepo/?report=20261101-155513-bvy5",
+      "publishedBy": "KonoeSub",
+      "summary": {
+        "borderlandsPct": 0.42857142857142855,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 18,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20261031-142733-23un",
       "title": "Pray For My Boons",
       "commanders": [
