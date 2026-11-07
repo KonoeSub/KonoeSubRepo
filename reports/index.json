@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.21.0"
+    "version": "3.22.12"
   },
   "entries": [
+    {
+      "id": "20261107-161800-asw7",
+      "title": "Xx Le Püsch Xx",
+      "commanders": [
+        "Xx Le Püsch Xx"
+      ],
+      "guild": {
+        "id": "18A54E10-7600-F111-BB16-02A49BC2E9F7",
+        "name": "Organized Panic",
+        "tag": "AAAH"
+      },
+      "dateStart": "2026-11-07T15:18:00.000Z",
+      "dateEnd": "2026-11-07T15:55:15.735Z",
+      "dateLabel": "07/11/2026, 16:18:00 - 07/11/2026, 16:55:15",
+      "url": "https://KonoeSub.github.io/KonoeSubRepo/?report=20261107-161800-asw7",
+      "publishedBy": "KonoeSub",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 39,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 38
+      }
+    },
     {
       "id": "20261101-155513-bvy5",
       "title": "Tríckstars",
